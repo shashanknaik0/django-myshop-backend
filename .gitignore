@@ -1,0 +1,4 @@
+#migrations
+/cart/migrations
+/user/migrations
+/product/migrations
